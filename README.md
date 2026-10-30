@@ -55,7 +55,7 @@ public class Bruna {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🛠️ Tech Stack & Ferramentas
+## Tech Stack & Ferramentas
 
 <div align="center">
 
@@ -67,7 +67,7 @@ public class Bruna {
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode&theme=dark" alt="Tools"/>
 
-**🎨 Background em Design**
+**Background em Design**
 
 <img src="https://skillicons.dev/icons?i=ps,ai,blender&theme=dark" alt="Design"/>
 <img src="https://img.shields.io/badge/Rhino_3D-000000?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="Rhinoceros 3D" height="48"/>
@@ -76,7 +76,7 @@ public class Bruna {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -92,7 +92,7 @@ public class Bruna {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <table>
 <tr>
@@ -129,7 +129,7 @@ Aplicação para organizar registros de cuidados, histórico de saúde e memóri
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🎯 Foco Atual
+## Foco Atual
 
 <div align="center">
 
